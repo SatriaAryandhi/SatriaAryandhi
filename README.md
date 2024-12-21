@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/H1dxi6xdh4NGQCZSvz"  />
-<iframe src="https://giphy.com/embed/H1dxi6xdh4NGQCZSvz" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz">via GIPHY</a></p>
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJzcjdhbjJmczJtZm5tNXRldzd0YmR1azZ3bTBzM21ja3lwaGgzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif"/>
 
 ###
 
